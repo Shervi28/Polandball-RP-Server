@@ -8,6 +8,9 @@
 * Hungary - Colonizes Romania, Yugoslavia, and Czechoslovakia.
 * Germany - Yet to strike Poland -_- .
 
+# Europe Map World #1
+![Current Europe Map](https://cdn.discordapp.com/attachments/866820971784830977/867175262218747934/Screenshot_20210721-004237_Animator.jpg)
+
 ## Japan Defeats North Korea
 ![Japan Defeats North Korea](https://raw.githubusercontent.com/Shervi28/Polandball-RP-Server/main/Worlds/World%20%231/japenandnorh.PNG)
 
@@ -22,4 +25,6 @@ Sweden sends 40k troops and 6k airplanes, but losses 20k troops and 3k airplanes
 
 ## Hungary Defeats Romania, Yugoslavia, and Czechoslovakia.
 Hungary sends 60k troops, 15k airplanes and 15k tanks. The opponent manages to annihilate 20k troops altogether but Hungary still wins. Hungary places 20k troops in these lands to guard them.
+
+
 
