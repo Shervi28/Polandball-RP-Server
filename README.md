@@ -7,4 +7,9 @@ Sry for the yelling. You could tell I am very excited. So ANYWAY... This GitHub 
 ### 1st World map
 ![1st World Map](https://raw.githubusercontent.com/Shervi28/Polandball-RP-Server/main/finalmap.PNG)
 
+## Contents:
+Rules: [Rules](https://github.com/Shervi28/Polandball-RP-Server/blob/main/Rules.md)
+
+
+
 
