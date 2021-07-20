@@ -4,7 +4,7 @@
 # Colonizations and Changes so far
 * Japan - Conquers North and South Korea, claims entire Korean Peninsula.
 * UINC - Colonizes Libya and Invades San Marino.
-* Sweden - Colonizes Finland.
+* Sweden - Colonizes Finland and Denmark
 * Hungary - Colonizes Old Hungary Lands.
 * Germany - Yet to strike Poland -_- .
 
@@ -17,4 +17,6 @@ United Italian Catholic States placed 70k italian troops in libya and 10k in san
 ## Japan Defeats South Korea, Claims Korean Peninsula
 Japan first 10k troops were decimated but eventually,losing 30k troops and 6k airplanes, managed to conquer all of Korea. Japan has 60k troops, 4k airplanes, and 10k tanks in the Korean Peninsula. 
 
+## Sweden Defeats Denmark, Claimes Denmark.
+Sweden sends 40k troops and 6k airplanes, but losses 20k troops and 3k airplanes but still manages to defeat denmark. Sweden stations remaining 20k troops and 3k airplanes @Denmark.
 
