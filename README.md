@@ -9,6 +9,7 @@ Sry for the yelling. You could tell I am very excited. So ANYWAY... This GitHub 
 
 ## Contents:
 [Rules](https://github.com/Shervi28/Polandball-RP-Server/blob/main/Rules.md)
+[World](https://github.com/Shervi28/Polandball-RP-Server/tree/main/Worlds/World%20%231)
 
 
 
