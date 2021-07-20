@@ -5,7 +5,7 @@
 * Japan - Conquers North and South Korea, claims entire Korean Peninsula.
 * UINC - Colonizes Libya and Invades San Marino.
 * Sweden - Colonizes Finland and Denmark
-* Hungary - Colonizes Romania, Yugoslavia, and Czechoslovakia.
+* Hungary - Colonizes Romania, Yugoslavia, Albania, and Czechoslovakia.
 * Germany - Yet to strike Poland -_- .
 
 # Europe Map World #1
